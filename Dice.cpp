@@ -51,7 +51,7 @@ void Dice::print()
 {
 	cout << "Current roll:" << getCurrentRoll() << endl;
 	cout << "roll number :" << getCount() << endl;
-	cout << "Average number rolled:" << getAverage() << endl;
+	cout << "Average number rolled: " << getAverage() << endl;
 
 }
 
